@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<br>
+    <form action="http://localhost:5000/get" method="post">
+
+          <p style="color:blue;">
+              <h1 style="color:blue; background-color:DodgerBlue;color:white;font-style:italic;" > <br>SENTIMENTAL ANALYSIS</h1>
+        <br><br>
+
+        </p>
+         <p style="font-size:25px;" >Please Enter Any Senetence to Check See The Sentimental Level <br></p>
+
+        <label style="font-size:25px;" for="fname">Enter The Text :</label>
+        <input type="text" id="fname" name="fname1">
+        <br><br>
+        <input style="font-size:20px;font-style:italic;" type="submit" value="Submit">
+
+    </form>
+    <br><br>
+    <p  style="font-size:25px;font-style:italic;">
+        The Sentimental Value of This Statement is :{{output}}
+        <br><br>
+        <img src="data:static/Images;base64,{{img}}">
+    </p>
+
+<body>
+
+</body>
+</html>
