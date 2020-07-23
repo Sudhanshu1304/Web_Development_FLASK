@@ -8,7 +8,7 @@ This is my First Web Dev Project Using The Flask Framework.
 ***
 <br>
 
-![](static/Images/Flask Image.png)
+![](static/Images/Flask%20Image.png)
 
 <br>
 
@@ -57,7 +57,7 @@ Sentence
 ***
 <br>
 
-![](static/Images/Flask%20Image.png)
+![](static/Images/Website.png)
 
 <br><br>
 
